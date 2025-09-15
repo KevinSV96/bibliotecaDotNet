@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxUjtrA1TBg=",
+  "success": true,
+  "projectFilePath": "/home/keso/MEDIA/UDB/2025 - Ciclo 2/2. DAS - Desarrollo de Aplicaciones con Software Propietario/dotnet/BibliotecaApp/BibliotecaApp.csproj",
+  "expectedPackageFiles": [
+    "/home/keso/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/keso/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
